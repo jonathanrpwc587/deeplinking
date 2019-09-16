@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.pwc.us.mobility.test.astro",
+    "sha256_cert_fingerprints":
+    ["D9:1A:CE:92:01:CC:9F:72:31:1F:81:2E:ED:C6:E7:6A:02:4B:14:66:15:CF:43:B3:BC:3B:F5:48:C7:79:3A:5F",
+    "DF:7A:B3:B1:1D:BF:E3:CF:82:BA:99:40:0C:A4:C9:00:34:AD:9C:B8:56:CE:33:5C:95:02:2D:8D:D5:1E:7E:3F"]
+  }
+}]
